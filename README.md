@@ -61,10 +61,9 @@ This assignment was relatively simple, but was challenging because I had not cod
 
 ### Assignment Description
 
-Your turn! You will be writing a section of readme like this for all subsequent assignments.
-
+This assignment was to make a code to create a calculator.
 ### Evidence 
-!
+![Screenshot 2021-09-10 3 18 38 PM](https://raw.githubusercontent.com/mbjones73/engineering_4_notebook/main/python/calcoutput2.PNG)
 
 ### Wiring
 
