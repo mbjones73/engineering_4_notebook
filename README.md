@@ -8,6 +8,7 @@ I didn't ask you to document hello_world.py or dice_roller.py. I'll start off wi
 * [Python_Dice_Roller](#PythonDiceRoller)
 * [Python_Calculator](#Python_Calculator)
 * [Quadratic Solver](#QuadraticSolver)
+* [Strings and Loops](#Strings and Loops)
 ---
 
 ## Basics
@@ -82,3 +83,14 @@ This was a benficial assignment because I learned how to use functions and reali
 ### Evidence 
 
 ### Reflection
+
+
+## Strings and Loops
+
+### asignment description
+
+### Evidence 
+
+### Reflection
+
+
