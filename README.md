@@ -7,6 +7,7 @@ I didn't ask you to document hello_world.py or dice_roller.py. I'll start off wi
 * [Basics](#Basics)
 * [Python_Dice_Roller](#PythonDiceRoller)
 * [Python_Calculator](#Python_Calculator)
+* [Quadratic Solver](#QuadraticSolver)
 ---
 
 ## Basics
@@ -72,3 +73,12 @@ This assignment was to make a code to create a calculator.
 
 This was a benficial assignment because I learned how to use functions and realised what I can do with them. At first it was very confuysing looking at how to use function but now I understand that they take in variables and you have to use 'return' inside the function in order to output values.
 
+
+
+## QuadraticSolver
+
+### asignment description
+
+### Evidence 
+
+### Reflection
