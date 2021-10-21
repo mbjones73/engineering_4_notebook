@@ -103,7 +103,7 @@ assignment was to create a calculator to solve quadratics.
 ### asignment description
 assignment was to create a hangman game.
 ### Evidence 
-![screenshot](https://cvilleschools.instructure.com/courses/35089/assignments/419103/submissions/5161?download=2962357)
+![screenshot](https://github.com/mbjones73/engineering_4_notebook/blob/main/python/Screenshot%202021-10-07%209.51.27%20PM%20(3).png)
 ### Reflection
 In this assignment I learned alot with false statements and with if statements.
 
