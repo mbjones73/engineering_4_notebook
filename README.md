@@ -9,6 +9,7 @@ I didn't ask you to document hello_world.py or dice_roller.py. I'll start off wi
 * [Python_Calculator](#Python_Calculator)
 * [Quadratic Solver](#QuadraticSolver)
 * [Strings and Loops](#Strings_and_Loops)
+* [MSP Challenge](#MSP_Hangman)
 ---
 
 ## Basics
