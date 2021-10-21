@@ -8,7 +8,7 @@ I didn't ask you to document hello_world.py or dice_roller.py. I'll start off wi
 * [Python_Dice_Roller](#PythonDiceRoller)
 * [Python_Calculator](#Python_Calculator)
 * [Quadratic Solver](#QuadraticSolver)
-* [Strings and Loops](#Strings and Loops)
+* [Strings and Loops](#Strings_and_Loops)
 ---
 
 ## Basics
@@ -79,13 +79,15 @@ This was a benficial assignment because I learned how to use functions and reali
 ## QuadraticSolver
 
 ### asignment description
-
+assignment was to create a calculator to solve quadratics.
 ### Evidence 
 
 ### Reflection
 
 
-## Strings and Loops
+
+
+## Strings_and_Loops
 
 ### asignment description
 
@@ -93,4 +95,15 @@ This was a benficial assignment because I learned how to use functions and reali
 
 ### Reflection
 
+
+
+
+## MSP_Hangman
+
+### asignment description
+assignment was to create a hangman game.
+### Evidence 
+![screenshot](https://cvilleschools.instructure.com/courses/35089/assignments/419103/submissions/5161?download=2962357)
+### Reflection
+In this assignment I learned alot with false statements and with if statements.
 
