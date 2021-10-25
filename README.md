@@ -107,5 +107,5 @@ assignment was to create a hangman game.
 ### Evidence 
 ![screenshot](https://github.com/mbjones73/engineering_4_notebook/blob/main/python/Screenshot%202021-10-07%209.51.27%20PM%20(3).png)
 ### Reflection
-In this assignment I learned alot with false statements and with if statements. Its useful to learn them before to make this easy. But when you're like me you never prepare. So I went and used my best friend(the internet).
+In this assignment I learned alot with false statements and with if statements. Its useful to learn them before to make this easy. But when you're like me you never prepare. So I went and used my best friend(the internet). I learned to replace a certain character at certain place in a string, you can use string = string[:index] + characterReplacement + string[index+1:]
 
