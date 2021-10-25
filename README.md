@@ -73,7 +73,7 @@ This assignment was to make a code to create a calculator.
 
 ### Reflection
 
-This was a benficial assignment because I learned how to use functions and realised what I can do with them. At first it was very confuysing looking at how to use function but now I understand that they take in variables and you have to use 'return' inside the function in order to output values.
+This was a benficial assignment because I learned how to use functions and realised what I can do with them. At first it was real hard to understand a function. But in engineering I learned the internet is your best friend. Now I understand that they take in variables and you have to use 'return' inside the function in order to output values.
 
 
 
