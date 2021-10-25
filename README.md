@@ -84,18 +84,19 @@ assignment was to create a calculator to solve quadratics.
 ### Evidence 
 
 ### Reflection
-
+This assignment taught me the syntax for squaring things in Python, a ** x, as well as how to import and use the square root function, from math import sqrt and sqrt(x). I also learned how to use f strings to be able to put variables inside of strings more easily,
+f" This is {variableA} and {variableB}".
 
 
 
 ## Strings_and_Loops
-
+ 
 ### asignment description
-
+ I wrote a program that takes a sentence input by the user and prints out each character on a new line, with a - after each word. 
 ### Evidence 
 
 ### Reflection
-
+In this assignment I learned a few things, but didn't run in to any major obstacles. While doing the vanilla version, I learned that in Python, you can use list(string) to create a list with each character in the string as its own element and string.split() to create a list of each substring in the string between a certain character, which defaults to a space. In the spicy version, I learned a new string method (you can replace every instance of a certain character in a string with another character using string.replace(oldCharacter, newCharacter)), but my main takeaway that Python for loop syntax can be very strange; you can put a print statement on the same line before the for statement it is printing the value of, but only if you have brackets around it. (I think, at least, although I have no idea why this syntax would be used)
 
 
 
@@ -106,5 +107,5 @@ assignment was to create a hangman game.
 ### Evidence 
 ![screenshot](https://github.com/mbjones73/engineering_4_notebook/blob/main/python/Screenshot%202021-10-07%209.51.27%20PM%20(3).png)
 ### Reflection
-In this assignment I learned alot with false statements and with if statements.
+In this assignment I learned alot with false statements and with if statements. Its useful to learn them before to make this easy. But when you're like me you never prepare. So I went and used my best friend(the internet).
 
