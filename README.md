@@ -63,7 +63,7 @@ This was a benficial assignment because I learned how to use functions and reali
 ### asignment description
 assignment was to create a calculator to solve quadratics.
 ### Evidence 
-
+![screenshot](https://github.com/mbjones73/engineering_4_notebook/blob/main/Quadratic.PNG)
 ### Reflection
 This assignment taught me the syntax for squaring things in Python, a ** x, as well as how to import and use the square root function, from math import sqrt and sqrt(x). I also learned how to use f strings to be able to put variables inside of strings more easily,
 f" This is {variableA} and {variableB}".
