@@ -97,10 +97,8 @@ this assignment was to create a skateboard.
 
 ### Evidence 
 
+![screenshot](https://github.com/mbjones73/engineering_4_notebook/blob/main/skateboard.PNG)
 
-
-### Wiring
-
-This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here.
 
 ### Reflection
+This was a fun assignment because its a cool object. While working through all the different parts you learn a lot of skills. The fillet key will be the most used feature. You use a lot of extrude and revolve features. And during the drawing centerlines are very helpful!!!
