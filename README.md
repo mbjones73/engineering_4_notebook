@@ -10,28 +10,9 @@ I didn't ask you to document hello_world.py or dice_roller.py. I'll start off wi
 * [Quadratic Solver](#QuadraticSolver)
 * [Strings and Loops](#Strings_and_Loops)
 * [MSP Challenge](#MSP_Hangman)
+* [Cad 2.1-2.5](#Cad_2.1-2.5)
 ---
 
-## Basics
-You can delete this section from your own personal readme. 
-
-### Assignment Description
-
-Write your assignment description here. It should be at least a few sentences.
-
-### Evidence 
-
-Pictures / Gifs of your work should go here.  You need to communicate what your thing does. For code only assignments like the Python calculator, include a screenshot of the output of the code.
-
-### Wiring
-
-This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here.
-
-### Reflection
-
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience?  Your ultimate goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
-
-** Don't forget to **COMMENT YOUR CODE** before you upload to Github!
 
 ## Python_Dice_Roller
 
@@ -109,3 +90,17 @@ assignment was to create a hangman game.
 ### Reflection
 In this assignment I learned alot with false statements and with if statements. Its useful to learn them before to make this easy. But when you're like me you never prepare. So I went and used my best friend(the internet). I learned to replace a certain character at certain place in a string, you can use string = string[:index] + characterReplacement + string[index+1:]
 
+## Cad_2.1-2.5
+### Assignment Description
+
+this assignment was to create a skateboard.
+
+### Evidence 
+
+
+
+### Wiring
+
+This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here.
+
+### Reflection
