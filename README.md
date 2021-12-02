@@ -118,6 +118,7 @@ In this assignment we were given the task to make two led's blink. We were not g
 
 ![screenshot](https://github.com/mbjones73/engineering_4_notebook/blob/main/python/Screenshot%202021-11-29%2010.40.18%20AM.png)
 
+![screenshot](https://github.com/mbjones73/engineering_4_notebook/blob/main/python/IMG_1403.jpg)
 
 
 ### Reflection
