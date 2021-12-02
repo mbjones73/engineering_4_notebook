@@ -11,6 +11,7 @@ I didn't ask you to document hello_world.py or dice_roller.py. I'll start off wi
 * [Strings and Loops](#Strings_and_Loops)
 * [MSP Challenge](#MSP_Hangman)
 * [Cad 2.1-2.5](#Cad_2.1-2.5)
+* [2 led's Blink (pi)](#LedPiBlink)
 ---
 
 
@@ -103,3 +104,22 @@ this assignment was to create a skateboard.
 
 ### Reflection
 This was a fun assignment because its a cool object. While working through all the different parts you learn a lot of skills. The fillet key will be the most used feature. You use a lot of extrude and revolve features. And during the drawing centerlines are very helpful!!!
+
+
+## LedPiBlink 
+
+
+### Assignment Description
+
+In this assignment we were given the task to make two led's blink. We were not given the code or the wiring. We had to figure out the wiring or use an example.
+
+
+### Evidence / Wiring
+
+![screenshot](https://github.com/mbjones73/engineering_4_notebook/blob/main/python/Screenshot%202021-11-29%2010.40.18%20AM.png)
+
+
+
+### Reflection
+
+When using a pi device they are really fragile. They can burn out quickly. Make sure you shut your pi down before changing wiring. Remember internet is your friend in Engineering just comment it.
