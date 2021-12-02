@@ -4,7 +4,7 @@ This repository will actually serve as a aid to help you get started with your o
 I didn't ask you to document hello_world.py or dice_roller.py. I'll start off with an example for dice_roller.py, and then you will reflect on calculator.py.
 
 ## Table of Contents
-* [Basics](#Basics)
+
 * [Python_Dice_Roller](#PythonDiceRoller)
 * [Python_Calculator](#Python_Calculator)
 * [Quadratic Solver](#QuadraticSolver)
