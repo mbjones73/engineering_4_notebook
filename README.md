@@ -124,3 +124,26 @@ In this assignment we were given the task to make two led's blink. We were not g
 ### Reflection
 
 When using a pi device they are really fragile. They can burn out quickly. Make sure you shut your pi down before changing wiring. Remember internet is your friend in Engineering just comment it.
+
+
+## I2C
+
+### Assignment Description
+
+### Evidence / Wiring
+
+### Reflection
+
+
+## Headless Accelerometer
+
+### Assignment Description
+Take your last assignment (the one where you were displaying data from the accelerometer on that adorable little display), pick at least one axis (x, y, and/or z) and display it graphically.  Like a dot that moves around or a line or a bar or something that changes size. I made a bubble plot that moves around the screen to show the x and y accelerations
+
+
+### Evidence / Wiring
+
+
+
+### Reflection
+
