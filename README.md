@@ -136,7 +136,7 @@ When using a pi device they are really fragile. They can burn out quickly. Make 
 
 
 ## Headless Accelerometer
-
+![screenshot](https://github.com/mbjones73/engineering_4_notebook/blob/main/python/Screenshot%202022-01-25%209.48.42%20AM.png?raw=true)
 ### Assignment Description
 Take your last assignment (the one where you were displaying data from the accelerometer on that adorable little display), pick at least one axis (x, y, and/or z) and display it graphically.  Like a dot that moves around or a line or a bar or something that changes size. I made a bubble plot that moves around the screen to show the x and y accelerations
 
