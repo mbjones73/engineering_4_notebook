@@ -147,3 +147,11 @@ Take your last assignment (the one where you were displaying data from the accel
 
 ### Reflection
 
+
+## Pi Camera
+
+### Assignment description
+
+
+### Evidence/Wiring
+![screenshot](https://github.com/mbjones73/engineering_4_notebook/blob/main/foo.jpg)
