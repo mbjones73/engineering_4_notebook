@@ -151,7 +151,7 @@ Take your last assignment (the one where you were displaying data from the accel
 ## Pi Camera
 
 ### Assignment description
-
+This assignment was to create program that, when run, prints a message to the screen (like "running"), takes a picture, and then prints another message to the screen (like "done").
 
 ### Evidence/Wiring
 ![screenshot](https://github.com/mbjones73/engineering_4_notebook/blob/main/foo.jpg)
@@ -169,3 +169,5 @@ This assignment was to get your script to work so that the RPi reboots when you 
 ### evidence
 ![screenshot](https://github.com/mbjones73/engineering_4_notebook/blob/main/IMG_2505.PNG)
 ![screenshot](https://github.com/mbjones73/engineering_4_notebook/blob/main/image0.png)
+
+### Reflection
