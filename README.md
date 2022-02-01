@@ -164,7 +164,8 @@ Take your last assignment (the one where you were displaying data from the accel
 ## Shutdown
 
 ### Decription
-
+This assignment was to get your script to work so that the RPi reboots when you tap the button, and shuts down when you hold it
+ & Set up your RPi so that the script automatically runs in the background every time it boots up. 
 ### evidence
 ![screenshot](https://github.com/mbjones73/engineering_4_notebook/blob/main/IMG_2505.PNG)
 ![screenshot](https://github.com/mbjones73/engineering_4_notebook/blob/main/image0.png)
