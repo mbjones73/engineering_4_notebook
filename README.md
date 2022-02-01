@@ -157,8 +157,14 @@ Take your last assignment (the one where you were displaying data from the accel
 ![screenshot](https://github.com/mbjones73/engineering_4_notebook/blob/main/foo.jpg)
 
 
-## shutdown
+### Reflection
 
+
+
+## Shutdown
+
+### Decription
 
 ### evidence
 ![screenshot](https://github.com/mbjones73/engineering_4_notebook/blob/main/IMG_2505.PNG)
+![screenshot](https://github.com/mbjones73/engineering_4_notebook/blob/main/image0.png)
