@@ -129,7 +129,7 @@ When using a pi device they are really fragile. They can burn out quickly. Make 
 ## I2C
 
 ### Assignment Description
-
+ Write a new program by combining the two example scripts you have already used. Mash these two programs together so that the X, Y, and Z accelerations measured by your accelerometer are displayed on your little OLED display.  And convert and scale the values to m/s2, rounded to two or three decimal places.  So, when it's just sitting flat on the table, the z-acceleration should be roughly 9.81 m/s2.
 ### Evidence / Wiring
 ![screenshot](https://github.com/mbjones73/engineering_4_notebook/blob/main/python/IMG_2455.jpg?raw=true)
 ### Reflection
