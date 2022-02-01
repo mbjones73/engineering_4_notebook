@@ -155,3 +155,9 @@ Take your last assignment (the one where you were displaying data from the accel
 
 ### Evidence/Wiring
 ![screenshot](https://github.com/mbjones73/engineering_4_notebook/blob/main/foo.jpg)
+
+
+## shutdown
+
+
+### evidence
